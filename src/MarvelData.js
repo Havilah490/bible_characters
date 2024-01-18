@@ -31,7 +31,7 @@ export const characters = [
     team: "Avengers",
     img1: "https://uk.superbookacademy.com/wp-content/uploads/sites/2/2015/03/Bible_Profile_Mary-1024x1024.png",
     homeworld: "Earth",
-
+ 
     description:
       "James 'Rhodey' Rhodes, also known as War Machine, is a highly skilled pilot and a military expert. He operates a heavily armed powered armor suit that enhances his strength and combat capabilities. With a strong sense of duty and loyalty to his allies, Rhodey plays a crucial role in the Avengers' efforts to maintain peace and protect the world.",
   },
